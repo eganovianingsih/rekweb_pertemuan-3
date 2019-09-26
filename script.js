@@ -1,0 +1,1 @@
+consol.long('hello world');
